@@ -1,6 +1,5 @@
-<img align="center" src="https://raw.githubusercontent.com/Ahsansiddz/ahsansiddz/main/banner1.jpg"/>
-### Hey Folks 👋
-
+<img align="center" src="https://raw.githubusercontent.com/ahsansiddz/blob/main/BANNER1.jpg"/>
+### Hey Folks 👋 
 
 <!--
 **Ahsansiddz/ahsansiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
