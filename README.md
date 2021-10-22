@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/8a874a8d0f70716032f0113e6609bf8515ef92f9/BANNER1.jpg"/>
-  <h2 align="center">Hey Folks 👋 I am AHSAN SIDDZ <br/> I never lose. Either I Win or Learn. </h2>
+  <h2 align="center">Hey Folks 👋 I am AHSAN SIDDZ <br/> </h2> <h4> I never lose. Either I Win or Learn. </h4>
  
 
 <div >
