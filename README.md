@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/8a874a8d0f70716032f0113e6609bf8515ef92f9/BANNER1.jpg"/>
-### Hey Folks 👋 
+### <h1 align="center">Hey Folks 👋 </h1>
 
+<p align="center">
 [![FACEBOOK Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahsansiddz/)](https://www.facebook.com/ahsansiddz)
 [![Linkedin Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AHSANSIDDZ/)](https://www.linkedin.com/in/AHSANSIDDZ/)
  
@@ -9,6 +10,8 @@
 <a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 [![BMC Badge](https://img.shields.io/badge/-BuyMeCoffee-FFDD00?style=plastic-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/codingpotter)](https://www.buymeacoffee.com/codingpotter)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahsansiddz)
+ 
+ </p>
 
 <!--
 **Ahsansiddz/ahsansiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
