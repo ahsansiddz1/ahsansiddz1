@@ -5,8 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AHSANSIDDZ/)](https://www.linkedin.com/in/AHSANSIDDZ/)
  [![Twitter Badge](https://img.shields.io/badge/-AhsanSiddz1-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/ahsansiddz1)](https://www.twitter.com/ahsansiddz1)
 <a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
-[![BMC Badge](https://img.shields.io/badge/-BuyMeCoffee-FFDD00?style=plastic-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/codingpotter)](https://www.buymeacoffee.com/codingpotter)
+<a href="https://github.com/Ahsansiddz/ahsansiddz/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahsansiddz)
 
 
