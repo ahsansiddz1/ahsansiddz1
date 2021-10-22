@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/8bf311708487e03d5c0b20fc3d2eef5eaf23c52a/BANNER1.jpg"/>
+<img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/b0fc1824e52fd163909798c53f8952554bae51c9/BANNER1.jpg"/>
 ### Hey Folks 👋 
 
 <!--
