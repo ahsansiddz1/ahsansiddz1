@@ -8,6 +8,12 @@
 <a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 [![BMC Badge](https://img.shields.io/badge/-BuyMeCoffee-FFDD00?style=plastic-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/codingpotter)](https://www.buymeacoffee.com/codingpotter)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahsansiddz)
+
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+|---|---|
+
  
 <!--
 **Ahsansiddz/ahsansiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
