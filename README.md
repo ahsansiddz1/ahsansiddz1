@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/8a874a8d0f70716032f0113e6609bf8515ef92f9/BANNER1.jpg"/>
 ### Hey Folks 👋 
 
-[![FACEBOOK Badge](https://img.shields.io/badge/-AHSANSIDDZ-BLUE?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahsansiddz/)](https://www.facebook.com/codingpotter)
+[![FACEBOOK Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahsansiddz/)](https://www.facebook.com/ahsansiddz)
 [![Linkedin Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AHSANSIDDZ/)](https://www.linkedin.com/in/AHSANSIDDZ/)
  
 [![Twitter Badge](https://img.shields.io/badge/-AhsanSiddz1-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/ahsansiddz1)](https://www.twitter.com/ahsansiddz1)
