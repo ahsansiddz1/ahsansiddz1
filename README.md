@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<h2> I never lose. Either I Win or Learn.</h2>
+<h2> We never lose. Either We Win or Learn.</h2>
 </div>
 
 <div >
