@@ -39,7 +39,6 @@
 
  <hr/>
   
- <h3> Social accounts </h3>
 [![FACEBOOK Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahsansiddz/)](https://www.facebook.com/ahsansiddz)
 [![Linkedin Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AHSANSIDDZ/)](https://www.linkedin.com/in/AHSANSIDDZ/)
  [![Twitter Badge](https://img.shields.io/badge/-AhsanSiddz1-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/ahsansiddz1)](https://www.twitter.com/ahsansiddz1)
