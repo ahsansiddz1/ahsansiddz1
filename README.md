@@ -39,7 +39,7 @@
 
  <hr/>
  
- <h3> Social accounts </h3> <br/>
+ <h3> 💠 Social accounts </h3> <br/>
  <div align="center">
  
 [![FACEBOOK Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahsansiddz/)](https://www.facebook.com/ahsansiddz)
@@ -49,7 +49,7 @@
  </div>
  
  
- <h3> Portfolio  </h3> 
+ <h3> 🔰 Portfolio  </h3> 
   <div align="center">
  
 <a href="https://NotCreatedyet.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
@@ -59,7 +59,7 @@
  <hr/>
 
 
-## MY GIT STATS
+## 👨‍💻 MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz&theme=radical"/>|
 |---|---|
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANSIDDZ&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
