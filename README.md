@@ -38,18 +38,24 @@
 -->
 
  <hr/>
+ 
  <h3> Social accounts </h3> <br/>
+ <div align="center">
  
 [![FACEBOOK Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahsansiddz/)](https://www.facebook.com/ahsansiddz)
 [![Linkedin Badge](https://img.shields.io/badge/-AHSANSIDDZ-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AHSANSIDDZ/)](https://www.linkedin.com/in/AHSANSIDDZ/)
  [![Twitter Badge](https://img.shields.io/badge/-AhsanSiddz1-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/ahsansiddz1)](https://www.twitter.com/ahsansiddz1)
  
+ </div>
  
  
- <h3> Portfolio  </h3>
+ <h3> Portfolio  </h3> 
+  <div align="center">
+ 
 <a href="https://NotCreatedyet.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 <a href="https://github.com/Ahsansiddz/ahsansiddz/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
 
+ </div>
 
 
 ## MY GIT STATS
