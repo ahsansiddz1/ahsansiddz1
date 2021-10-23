@@ -1,7 +1,8 @@
-<div align="center">
+<p align="center">
 <img alt="" src=https://img.shields.io/github/stars/ahsansiddz?affiliations=OWNER%2CCOLLABORATOR />
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahsansiddz)
-</div>
+<img alt="" src=https://komarev.com/ghpvc/?username=ahsansiddz />
+</p>
+
 
 
 <img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/8a874a8d0f70716032f0113e6609bf8515ef92f9/BANNER1.jpg"/>
