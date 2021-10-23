@@ -56,6 +56,7 @@
 <a href="https://github.com/Ahsansiddz/ahsansiddz/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
 
  </div>
+ <hr/>
 
 
 ## MY GIT STATS
