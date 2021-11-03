@@ -11,8 +11,10 @@
 <div align="center">
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
 </div>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
-
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7D16E&lines=Hey+Folks+%F0%9F%91%8B+I+am+AHSAN+SIDDZ)](https://git.io/typing-svg)
+ </div>
+ 
 <div align="center">
 <h2> We never lose. Either We Win or Learn.</h2>
 </div>
