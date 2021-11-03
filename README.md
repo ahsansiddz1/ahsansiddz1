@@ -20,6 +20,8 @@
 
  </div>
  
+ </div>
+ 
 <div >
  <h3> ABOUT ME 📌 </h3>
   
