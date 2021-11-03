@@ -7,10 +7,11 @@
 
 <img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/8a874a8d0f70716032f0113e6609bf8515ef92f9/BANNER1.jpg"/>
  
- 
+ <!--
 <div align="center">
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
-</div>
+</div>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
 
 <div align="center">
 <h2> We never lose. Either We Win or Learn.</h2>
