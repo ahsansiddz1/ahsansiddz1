@@ -42,17 +42,19 @@
  
  <h3> 💠 Social accounts </h3> <br/>
 <p align="center">
-  <a href="https://github.com/ahsansiddz?tab=followers">
-    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/ahsansiddz1">
-    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahsansiddz/" target="_blank">
+ 
+   <a href="https://www.linkedin.com/in/ahsansiddz/" target="_blank">
   <img alt="ahsansiddz | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+ 
+   <a href="http://twitter.com/ahsansiddz1">
+    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  
+ 
+  <a href="https://github.com/ahsansiddz?tab=followers">
+    <img src="https://github.com/ahsansiddz?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
 <a href="https://www.facebook.com/ahsansiddz" target="_blank">
   <img  alt="@ahsansiddz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
