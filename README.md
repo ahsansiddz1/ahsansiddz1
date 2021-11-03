@@ -51,8 +51,6 @@
     <img src="https://img.shields.io/twitter/follow/ahsansiddz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  
- 
- 
   <a href="https://github.com/ahsansiddz">
     <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
