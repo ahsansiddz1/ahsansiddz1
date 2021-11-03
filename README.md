@@ -51,10 +51,10 @@
     <img src="https://img.shields.io/twitter/follow/ahsansiddz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  
- </a>
+ 
  
   <a href="https://github.com/ahsansiddz">
-    <img src="https://github.com/ahsansiddz?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
 <a href="https://www.facebook.com/ahsansiddz" target="_blank">
