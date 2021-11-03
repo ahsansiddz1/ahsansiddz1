@@ -65,7 +65,7 @@
 |---|---|
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANSIDDZ&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
  
- <div> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /> </div>
+ <div> <img src="https://raw.githubusercontent.com/ahsansiddz/ahsansiddz/output/github-contribution-grid-snake.svg" /> </div>
 
 
  
