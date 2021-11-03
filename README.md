@@ -47,11 +47,11 @@
   <img alt="ahsansiddz | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
  
-   <a href="http://twitter.com/ahsansiddz1">
-    <img src="https://img.shields.io/twitter/follow/ahsansiddz?label=Twitter&logo=twitter&style=for-the-badge" />
+   <a href="http://twitter.com/ahsansiddz1" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  
-  <a href="https://github.com/ahsansiddz">
+  <a href="https://github.com/ahsansiddz" target="_blank">
     <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
