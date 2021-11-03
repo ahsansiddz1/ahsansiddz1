@@ -5,7 +5,7 @@
 
 
 
-<img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/main/BANNER.JPG"/>
+<img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/main/NEWBANNER.JPG"/>
  
  
 <div align="center">
