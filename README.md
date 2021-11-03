@@ -10,15 +10,13 @@
  
 <div align="center">
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
-  
-<div align="center">
+ 
 <h2> We never lose. Either We Win or Learn.</h2>
-</div>
- <div class="center">
+  
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&lines=I'm+programmer%2Cdeveloper%2Cdesigner+%26+freelancer)](https://git.io/typing-svg)
 
- </div>
+ 
  
  </div>
  
