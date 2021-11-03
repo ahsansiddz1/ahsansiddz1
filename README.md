@@ -13,7 +13,7 @@
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
 <h2> We never lose. Either We Win or Learn.</h2>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%23D2D00C&size=18&lines=I'm+programmer%2Cdeveloper%2Cdesigner+%26+freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%23E3F713&size=18&lines=I'm+programmer%2Cdeveloper%2Cdesigner+%26+freelancer+%F0%9F%92%BB)](https://git.io/typing-svg)
  
  </div>
  
