@@ -11,7 +11,8 @@
 <div align="center">
  
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
-<h2> We never lose. Either We Win or Learn.</h2>
+<h2> You always get what you think about, Always think big and be positive :) </h2>
+ <h2> Never ever lose hope !</h2>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%23E3F713&size=18&lines=I'm+programmer%2Cdeveloper%2Cdesigner+%26+freelancer+%F0%9F%92%BB)](https://git.io/typing-svg)
  
@@ -28,8 +29,8 @@
 
 
 <!-- - ... -->
-- 🌱 I’m currently learning python and enhancing my front end web development skills. 
-- 👯 I’m looking to collaborate on  web development projects.
+- 🌱 I’m currently learning python and its frameworks and libraries. 
+- 👯 I’m looking for an internship for enhancing my skills and thrilled to explore the professional environment.
 - ⚡ Hobbies: Coding, Social Media, Music, Movies , Knowing science facts 
 <!-- - 
 🔭 I’m currently working on  
@@ -58,7 +59,7 @@
 </a>
  
   <a href="https://github.com/ahsansiddz1" target="_blank">
-    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/ahsansiddz?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
  
