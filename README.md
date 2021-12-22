@@ -71,7 +71,7 @@
   <div align="center">
  
 <a href="https://ahsansiddz1.github.io"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://github.com/Ahsansiddz1/ahsansiddz1/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
+<a href="https://drive.google.com/file/d/1ERX4hnBGwGG0xZCg__wFHbifcXvmBTQH/view?usp=sharing"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
 
  </div>
  <hr/>
