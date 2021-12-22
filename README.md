@@ -1,11 +1,11 @@
 <p align="center">
-<img alt="" src=https://img.shields.io/github/stars/ahsansiddz?affiliations=OWNER%2CCOLLABORATOR />
+<img alt="" src=https://img.shields.io/github/stars/ahsansiddz1?affiliations=OWNER%2CCOLLABORATOR />
 <img alt="" src=https://komarev.com/ghpvc/?username=ahsansiddz />
 </p>
 
 
 
-<img align="center" src="https://github.com/Ahsansiddz/ahsansiddz/blob/main/NEWBANNER.JPG"/>
+<img align="center" src="https://github.com/ahsansiddz1/ahsansiddz1/blob/main/NEWBANNER.jpg"/>
  
  
 <div align="center">
@@ -56,7 +56,7 @@
   <img  alt="@ahsansiddz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
  
-  <a href="https://github.com/ahsansiddz" target="_blank">
+  <a href="https://github.com/ahsansiddz1" target="_blank">
     <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
@@ -70,16 +70,16 @@
   <div align="center">
  
 <a href="https://NotCreatedyet.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://github.com/Ahsansiddz/ahsansiddz/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
+<a href="https://github.com/Ahsansiddz1/ahsansiddz1/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
 
  </div>
  <hr/>
 
 
 ## 👨‍💻 MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz1&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz1&theme=radical"/>|
 |---|---|
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANSIDDZ&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANSIDDZ1&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
  
  <!--lANGUAGES AND TOOLS -->
  
