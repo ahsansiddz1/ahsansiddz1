@@ -23,7 +23,7 @@
  <p align="center">Self Starter & Quick Learner, Passionate about Coding & Technology </p>
  </div>
  
- ![Metrics](https://metrics.lecoq.io/ahsansiddz?template=classic&base.header=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FKarachi)
+ ![Metrics](https://metrics.lecoq.io/ahsansiddz1?template=classic&base.header=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FKarachi)
 
 
 <!-- - ... -->
