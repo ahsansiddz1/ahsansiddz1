@@ -86,13 +86,10 @@
  
  <!--lANGUAGES AND TOOLS -->
  
- <!--<details>
-    <summary>:zap: Languages and Tools</summary> -->
- <br/>
  <hr/>
-   <h2> >  Languages and Tools</h2>
-   
-   <br />
+  <details>
+    <summary>:zap: Languages and Tools</summary>  
+  
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p> </p>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -109,7 +106,7 @@
   <p align="center">
 <img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif" />
   </p>
-<!--</details> -->
+ </details> 
 <br />
  
 <br />
