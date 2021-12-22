@@ -48,8 +48,8 @@
   <img alt="ahsansiddz | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
  
-   <a href="http://twitter.com/ahsansiddz1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
+   <a href="http://twitter.com/ahsansiddz" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ahsansiddz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  
  
@@ -70,7 +70,7 @@
  <h3> 🔰 Portfolio  </h3> 
   <div align="center">
  
-<a href="https://NotCreatedyet.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://ahsansiddz1.github.io"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 <a href="https://github.com/Ahsansiddz1/ahsansiddz1/blob/d691c8ab6d9941ba42c42a3ef70d8e98d9659a47/resume.jpg"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a> 
 
  </div>
