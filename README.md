@@ -14,7 +14,7 @@
 <h2> You always get what you think about, Always think big and be positive :) </h2>
  <h2> Never ever lose hope !</h2>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%23E3F713&size=18&lines=I'm+ML Enthusiast%2CPssionate Front End developer adn %2CGraphics designer+%26.+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F4F762&lines=ML+ENTHUSIAST+%7C+FRONT+END+DEVELOPER+%7C+Graphics+Designer)](https://git.io/typing-svg)
  
  </div>
  
