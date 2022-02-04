@@ -81,7 +81,7 @@
 ## 👨‍💻 MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz1&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz1&theme=radical"/>|
 |---|---|
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANSIDDZ1&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANSIDDZ1&langs_count=8&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
  
  <!--lANGUAGES AND TOOLS -->
  
@@ -97,8 +97,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"    
-     />
+      />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
