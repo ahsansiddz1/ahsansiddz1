@@ -12,8 +12,7 @@
  
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
 <h2> You always get what you think about, Always think big and be positive :) </h2>
- <h2> Never ever lose hope !</h2>
- 
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F4F762&width=600&height=100&lines=ML+ENTHUSIAST+%7C+FRONT+END+DEVELOPER+%7C+Graphics+Designer)](https://git.io/typing-svg) 
  </div>
  
