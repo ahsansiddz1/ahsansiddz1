@@ -27,7 +27,7 @@
 
 
 <!-- - ... -->
-- 🌱 I’m currently learning python and its frameworks and libraries. 
+- 🌱 I’m currently learning python and its frameworks. 
 - 👯 I’m looking for an internship for enhancing my skills and thrilled to explore the professional environment.
 - ⚡ Hobbies: Coding, Social Media, Music, Movies , Knowing science facts 
 <!-- - 
