@@ -110,7 +110,8 @@
  
 <br />
 <div>
-    <img src="https://raw.githubusercontent.com/ahsansiddz1/ahsansiddz1/output/github-contribution-grid-snake.svg" />
+  <!--  <img src="https://raw.githubusercontent.com/ahsansiddz1/ahsansiddz1/output/github-contribution-grid-snake.svg" /> -->
+ ![snake animation](https://github.com/ahsansiddz1/ahsansiddz1/blob/output/github-contribution-grid-snake2.svg)
 </div>
 <br>
 
