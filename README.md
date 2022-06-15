@@ -80,7 +80,7 @@
 ## 👨‍💻 MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz1&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz1&theme=radical"/>|
 |---|---|
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansiddz1&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansiddz1&hide=html,python,c,javascript,cython,css,jupyter notebook,matlab,fortran,swift&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
  
  <!--lANGUAGES AND TOOLS -->
  
@@ -90,9 +90,9 @@
   
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p> </p>
+ <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
