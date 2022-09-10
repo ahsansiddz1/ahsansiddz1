@@ -13,7 +13,7 @@
 <h3>Hey Folks 👋 I am AHSAN SIDDZ</h3>
 <h2> You always get what you think about, Always think big and be positive :) </h2>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F4F762&width=600&height=100&lines=ML+ENTHUSIAST+%7C+FRONT+END+DEVELOPER+%7C+Graphics+Designer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=pink&width=600&height=100&lines=ML+ENTHUSIAST+%7C+App+DEVELOPER+%7C+Graphics+Designer)](https://git.io/typing-svg) 
  </div>
  
 <div >
@@ -86,14 +86,14 @@
  
  
  <!--lANGUAGES AND TOOLS -->
- <br/>
- 
- <hr/> 
-  
-  <h3 align="left">Languages and Tools:</h3>
   
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p> </p>
+
+
+  <h3 align="left">Languages and Tools:</h3>
+  <br/>
+  <br/>
+  
 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
