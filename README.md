@@ -79,9 +79,11 @@
 
 
 ## 👨‍💻 MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz1&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz1&theme=radical"/>|
-|---|---|
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansiddz1&hide=html,python,c,javascript,cython,css,jupyter notebook,matlab,fortran,dart,swift&langs_count=5&theme=radical&title_color=8E2DE2&text_color=fff" alt=" "/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahsansiddz1&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsansiddz1&theme=radical"/>
+ 
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsansiddz1&hide=python,C,html,css,cython,JavaScript,MATLAB&show_icons=true&locale=en&layout=compact" alt="AHSAN-SIDDZ" /></p>
+ 
  
  <!--lANGUAGES AND TOOLS -->
  
@@ -118,6 +120,18 @@
 <br />
  
  ![snake animation](https://github.com/ahsansiddz1/ahsansiddz1/blob/output/github-contribution-grid-snake2.svg)
+ 
+ 
+<br />
+ 
+ <br/>
+  
+ 
+ ![snake animation](https://github.com/ahsansiddz1/ahsansiddz1/blob/output/github-contribution-grid-snake2.svg)
+  
+  
+ 
+
   
   
  
