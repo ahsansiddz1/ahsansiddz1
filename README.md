@@ -86,6 +86,7 @@
  
  
  <!--lANGUAGES AND TOOLS -->
+ <br/>
  
  <hr/> 
   
@@ -111,27 +112,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  <p align="center">
-<img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif" />
-  </p>
- 
-<br />
+  
  
 <br />
  
  ![snake animation](https://github.com/ahsansiddz1/ahsansiddz1/blob/output/github-contribution-grid-snake2.svg)
  
- 
-<br />
- 
- <br/>
   
- 
- ![snake animation](https://github.com/ahsansiddz1/ahsansiddz1/blob/output/github-contribution-grid-snake2.svg)
-  
-  
- 
-
-  
-  
- 
